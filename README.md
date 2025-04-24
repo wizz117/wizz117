@@ -1,75 +1,86 @@
-<!-- assets/banner.png: Your custom banner image (optional) -->
-<!-- ──────────────────────────────────────────────────────────────── -->
-<!-- 💫 PERSONAL BANNER → replace with your own hosted image URL     -->
-<!-- ──────────────────────────────────────────────────────────────── -->
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE" alt="Banner for Vishnu Vardhan Ciripuram" width="100%">
-</p>
+# 🔒 VISHNU VARDHAN CIRIPURAM  
+**Cybersecurity Engineer | Red Team Specialist | Security Tool Developer**  
+*Securing the future of AI, quantum systems, and enterprise networks*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:vc2499@nyu.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/yourusername)
 
-<h1 align="center">Hey there 👋 — I’m Vishnu Vardhan Ciripuram</h1>
-<p align="center">
-  <em>Cybersecurity explorer • Cryptography TA • Cloud forensics tinkerer • Eternal learner</em>
-</p>
+---
 
-<!-- ──────────────────────────────────────────────────────────────── -->
-<!-- 🌟 About Me                                                     -->
-<!-- ──────────────────────────────────────────────────────────────── -->
-### 🌟 60-Second Snapshot
+## 🛡️ About Me  
+Hi! I’m a **Cybersecurity Engineer** and **Offensive Security Enthusiast** currently pursuing a Master’s in Cybersecurity at NYU (CGPA 4.0). My expertise spans adversarial emulation, cloud security, cryptographic protocols, and building automated tools to combat emerging threats. I thrive on dissecting vulnerabilities in AI systems, OT networks, and post-quantum cryptography frameworks.  
+
+**What I Do Best**:
+- 🔍 **Penetration Testing**: Full-spectrum red teaming (OWASP Top 10, MITRE ATT&CK).
+- 🛠️ **Tool Development**: Build scalable security tools for threat detection and forensic analysis.
+- ☁️ **Cloud & DevSecOps**: Secure AWS/GCP environments with automated incident response pipelines.
+- 📈 **Data-Driven Security**: Design visualization platforms to slash incident response times.
+
+---
+
+## 💻 Technical Arsenal  
+### **Languages & OS**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+
+### **Tools & Frameworks**  
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F61)
+![Metasploit](https://img.shields.io/badge/-Metasploit-EA2D2D?logo=metasploit)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?logo=nmap)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)
+
+### **Certifications**  
+![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google-Cloud%20Foundations-4285F4?logo=google-cloud)
+![THM](https://img.shields.io/badge/TryHackMe-Jr%20Pentester-212C42)
+
+---
+
+## 🚀 Highlighted Projects  
+
+### **Cyber Raksha** | *End-to-End Security Assessment Tool*  
+- Automated scans for **50+ vulnerabilities** (malware, Wi-Fi threats, misconfigurations) using Python and OpenVAS.  
+- Integrated MITRE ATT&CK tactics for threat modeling, reducing breach risks by **40%** for clients.  
+- **Tech Stack**: Python, OWASP ZAP, Nessus, Bash.  
+
+### **OCISO** | *Real-Time Security Analytics Platform*  
+- Aggregated 10TB+ of security logs into interactive dashboards with Elasticsearch and Kibana.  
+- Slashed incident response time by **60%** via automated anomaly detection and SNS alerts.  
+- **Tech Stack**: AWS Lambda, Docker, CloudWatch, Python.  
+
+### **Quantum-Resistant Encryption Framework**  
+- Engineered post-quantum protocols using **CRYSTALS-Kyber** and **HQC** for AI system security.  
+- Simulated quantum attacks to validate resilience under adversarial conditions.  
+- **Tech Stack**: C++, OpenSSL, Python.  
+
+### **AWS EC2 Automated Forensics**  
+- Built a serverless framework to trigger memory dumps on security incidents using Lambda and SSM.  
+- Achieved **90% faster evidence collection** via S3 integration and CloudWatch triggers.  
+- **Tech Stack**: AWS, Python, Bash.  
+
+[**Explore All Projects →**](https://github.com/yourusername)
+
+---
+
+## 📜 Experience  
+**Security Analyst Intern** @ Cyber Sophy *(Aug 2022 – Feb 2023)*  
+- Executed **15+ penetration tests** on web apps, OT networks, and cloud infra (AWS/GCP).  
+- Authored NIST-800 compliant reports, uncovering XSS flaws and lateral movement vectors.  
+
+**Course Assistant, Applied Cryptography** @ NYU *(Sep 2024 – Present)*  
+- Mentored 150+ students in quantum-resistant algorithms and cryptographic threat modeling.  
+- Co-developed lab exercises for lattice-based encryption (Kyber) and code-based schemes (HQC).  
+
+---
+
+## 📬 Let’s Collaborate!  
+- **Current Focus**: Securing LLMs and AI pipelines against adversarial attacks.  
+- **Reach Out**: Let’s discuss red teaming, threat intelligence, or quantum cryptography!  
+
 ```bash
-# whoami
-🧑‍💻  Graduate student (M.S. Cybersecurity, NYU Tandon ’25)
-🛡️   Applied Cryptography course assistant & grader
-🔬   Red-teamer turned blue-teamer (love wearing both hats)
-☁️   Cloud–K8s–DevSecOps experimenter
-🏆   CTF addict & buffer-overflow poet
-
-<!-- ──────────────────────────────────────────────────────────────── --> <!-- 🧰 Toolbox --> <!-- ──────────────────────────────────────────────────────────────── --> <details> <summary><b>🧰 Offensive / Defensive Toolbox</b></summary>
-
-Domain	Favorite Toys
-Exploit Dev	pwntools · Ghidra · radare2 · x86-64 / ARM asm
-Web / API	Burp Suite · OWASP ZAP · MITRE ATT&CK mapping
-Network	Wireshark · Nmap · Suricata · Zeek
-Cloud	AWS ⎯ Lambda, SSM, CloudWatch · Kubernetes · Terraform
-SIEM 🐉	OSSEC · Wazuh · Elastic Stack
-Languages	Python · Go · Bash · C/C++ · Java · (dabbling in Rust & Solidity)
-</details> <!-- ──────────────────────────────────────────────────────────────── --> <!-- 🚀 Highlight Projects --> <!-- ──────────────────────────────────────────────────────────────── -->
-🚀 Highlight Projects
-
-⭐ Project	TL;DR
-RedPill	Full-kill-chain Linux privilege-escalation lab → finalist at HTB-Uni CTF
-Quantum-Shield	Prototype encrypted chat using Kyber & HQC post-quantum suites
-AWS-Auto4n6	Lambda-driven framework that snapshots EC2 memory on IOC triggers
-Cyber Raksha	One-click security assessment CLI (web, cloud, Wi-Fi) → cuts manual recon 60 %
-<!-- ──────────────────────────────────────────────────────────────── --> <!-- 📈 GitHub Stats --> <!-- ──────────────────────────────────────────────────────────────── -->
-📈 By the Numbers
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wizz117&show_icons=true&hide_border=true&theme=solarized-dark" /> <img src="https://streak-stats.demolab.com?user=wizz117&hide_border=true&theme=solarized-dark" /> </p> <!-- ──────────────────────────────────────────────────────────────── --> <!-- 🌱 Currently Growing --> <!-- ──────────────────────────────────────────────────────────────── -->
-🌱 Currently Growing
-AI model red-teaming & guard-rails
-
-K8s supply-chain hardening (Sigstore, Cosign, Kyverno)
-
-Writing exploit-development “micro-poems” (because shellcode deserves haiku)
-
-<!-- ──────────────────────────────────────────────────────────────── --> <!-- 🤝 Let’s Connect --> <!-- ──────────────────────────────────────────────────────────────── -->
-🤝 Let’s Connect
-<p align="center"> <a href="https://www.linkedin.com/in/vishnu-ciripuram"><img src="YOUR_AVATAR_IMAGE" width="120px" alt="avatar"><br>LinkedIn</a> &nbsp;•&nbsp; <a href="mailto:vc2499@nyu.edu">Email</a> &nbsp;•&nbsp; <a href="https://wizardwizz.github.io">Blog</a> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&multiline=true&width=435&height=45&lines=Stay+curious;Stay+relentless;Hack+the+planet!" /> </p> ```
-
----
-
-## 🛠️ Tools & Technologies
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" />
-  <br/>
-  <img alt="Burp" src="https://img.shields.io/badge/-BurpSuite-000000?logo=portswigger&logoColor=white" />
-  <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-9DC3FF?logo=nmap&logoColor=black" />
-  <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-0082CB?logo=wireshark&logoColor=white" />
-  <br/>
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-</p>
-
----
-
+# PGP Key (Optional)
+curl -sSL https://keys.openpgp.org/vks/v1/by-fingerprint/XXXXXXXXXXXXXXX | gpg --import
